@@ -1,0 +1,6 @@
+rootProject.name = 'recoverdebt'
+include 'Domain'
+findProject(':Domain')?.name = 'domain'
+include 'BaseApp'
+findProject(':BaseApp')?.name = 'baseapp'
+

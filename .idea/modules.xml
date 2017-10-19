@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/baseapp.iml" filepath="$PROJECT_DIR$/.idea/modules/baseapp.iml" group="baseapp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BaseApp/baseapp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/BaseApp/baseapp_main.iml" group="baseapp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BaseApp/baseapp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/BaseApp/baseapp_test.iml" group="baseapp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain.iml" group="domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Domain/domain_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Domain/domain_main.iml" group="domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Domain/domain_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Domain/domain_test.iml" group="domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recoverdebt.iml" filepath="$PROJECT_DIR$/.idea/modules/recoverdebt.iml" />
+    </modules>
+  </component>
+</project>

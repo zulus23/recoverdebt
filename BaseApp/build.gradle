@@ -1,0 +1,18 @@
+group 'ru.zhukov.recoverdebt'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+apply plugin: 'application'
+
+sourceCompatibility = 1.8
+
+mainClassName ='ru.zhukov.recoverdebt.bootstrap.Application'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile project(":domain")
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
