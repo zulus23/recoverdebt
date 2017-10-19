@@ -3,4 +3,6 @@ include 'Domain'
 findProject(':Domain')?.name = 'domain'
 include 'BaseApp'
 findProject(':BaseApp')?.name = 'baseapp'
+include 'WebApp'
+findProject(':WebApp')?.name = 'web'
 

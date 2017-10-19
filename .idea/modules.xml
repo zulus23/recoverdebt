@@ -9,6 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Domain/domain_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Domain/domain_main.iml" group="domain" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Domain/domain_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Domain/domain_test.iml" group="domain" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/recoverdebt.iml" filepath="$PROJECT_DIR$/.idea/modules/recoverdebt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web.iml" filepath="$PROJECT_DIR$/.idea/modules/web.iml" group="web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WebApp/web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/WebApp/web_main.iml" group="web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WebApp/web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/WebApp/web_test.iml" group="web" />
     </modules>
   </component>
 </project>
